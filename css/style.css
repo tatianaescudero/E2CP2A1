@@ -1,0 +1,83 @@
+.container {
+	background: url(../images/bg.jpeg) no-repeat top center / cover transparent;
+	color: white;
+	text-align: center;
+	margin-top: 0;
+	max-width: 1000px;
+	width: 100%;
+	margin: 0 auto;
+	height: 300px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.container ul {
+	color: white;
+	margin-top: 0;
+	text-align: center;
+	float: right;
+	padding: 10px;
+	list-style-type: none;
+	display: inline-block;
+}
+.container h1 {
+	color: white;
+	margin-top: 0;
+	text-align: center;
+	padding: 90px 40px 20px 40px;
+}
+.container p {
+	color: white;
+	margin-top: 0;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+.container img {
+	margin-top: 0;
+	height: 40px;
+	float: left;
+	padding: 10px 0px 0px 20px;
+}
+.button-green {
+	background-color: green;
+	padding: 7px 10px;
+	border-radius: 5px;
+	color: #FFF;
+	border: none;
+}
+.button-blue {
+	background-color: blue;
+	text-align: center;
+	padding: 7px 10px;
+	border-radius: 5px;
+	color: #FFF;
+	border: none;
+}
+.container2 {
+	color: black;
+	text-align: center;
+	margin-top: 0;
+	max-width: 1000px;
+	width: 100%;
+	margin: 0 auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.container2 h1 {
+	color: black;
+	margin-top: 0;
+	text-align: center;
+	padding: 90px 40px 20px 40px;
+}
+.container2 p {
+	color: black;
+	margin-top: 0;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+.container2 img {
+	width: 40%;
+	margin: 0 auto;
+	padding: 10px 0px 0px 20px;
+}
